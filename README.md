@@ -1,3 +1,4 @@
+[Dashboard_1.xlsx](https://github.com/user-attachments/files/24910828/Dashboard_1.xlsx)
 # Excel Sales Dashboard
 
 ## 📌 Project Overview
