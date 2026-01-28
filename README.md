@@ -23,9 +23,8 @@ The dashboard provides clear insights into sales performance and trends to suppo
 - Compare sales across regions or categories
 
 ## 📁 Project Files
-- `Dashboard_1.xls[Dashboard_1.xlsx](https://github.com/user-attachments/files/24910844/Dashboard_1.xlsx)
-x` – Excel dashboard file
-
+- `Dashboard_1.xl[Dashboard_1.xlsx](https://github.com/user-attachments/files/24910886/Dashboard_1.xlsx)
+sx` – Excel dashboard file
 ## 🎯 Purpose
 This project was created for learning and training purposes to demonstrate practical Excel data analysis and dashboard design skills.
 
